@@ -1,4 +1,4 @@
-#Hier wird das shipping mit verschieden gewichten ausgerechnet
+#Hier wird das shipping mit verschiedenen gewichten ausgerechnet
 
 weight = 41.5
 #Ground Shipping
